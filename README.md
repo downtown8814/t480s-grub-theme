@@ -2,6 +2,8 @@
 
 a decliated grub theme for thinkpad t480s
 
+this is inspired by the distro grub theme and the exploded t480s wallpaper
+
 there are a few backgrounds in the theme
 
 update the desktop-image in theme.txt
